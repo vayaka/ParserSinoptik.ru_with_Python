@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px"
+	 width="32px" height="16px" viewBox="0 0 32 16" enable-background="new 0 0 32 16" xml:space="preserve">
+
+<g>
+	<path opacity="0.3" fill="#279FF9" d="M32,3.6c0,0-5.7-2.2-16,0s-16,0-16,0v2.7c0,0,3.6,2.2,16,0c12.4-2.2,16,0,16,0V3.6z"/>
+</g>
+<g>
+	<path opacity="0.3" fill="#279FF9" d="M16,3.6c-10.3,2.2-16,0-16,0V9v0.5c0,0,3.6,2.2,16,0c12.4-2.2,16,0,16,0V9V3.6
+		C32,3.6,26.3,1.4,16,3.6z"/>
+</g>
+<g>
+	<path opacity="0.3" fill="#279FF9" d="M16,3.6c-10.3,2.2-16,0-16,0V9v4c0,0,3.6,2.2,16,0c12.4-2.2,16,0,16,0V9V3.6
+		C32,3.6,26.3,1.4,16,3.6z"/>
+</g>
+<g>
+	<path opacity="0.3" fill="#279FF9" d="M16,3.6c-10.3,2.2-16,0-16,0V9v7h32V9V3.6C32,3.6,26.3,1.4,16,3.6z"/>
+</g>
+</svg>
